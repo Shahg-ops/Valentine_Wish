@@ -121,6 +121,8 @@ body {
   display: inline-block;
   max-width: 45%;
   height: auto;
+  border-radius: 25px;
+  box-shadow: 0 0 40px rgba(255, 182, 193, 0.6);
 }
 
 .six .hat {
