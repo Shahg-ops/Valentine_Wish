@@ -216,6 +216,12 @@ body {
   font-size: 3em;
   margin: 0;
   color: Red;
+
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #ffccd5,
+    0 0 30px #ffccd5;
 }
 
 .wish h5 {
